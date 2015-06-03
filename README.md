@@ -15,7 +15,7 @@
 4. 比特曼
 5. 比克船长
 
-B哥的大冒险
+[B哥的大冒险](https://github.com/TindleWei/work4bigshow/blob/master/B%E5%93%A5%E7%9A%84%E6%AD%A3%E5%B8%B8%E5%A4%A7%E5%86%92%E9%99%A9.md)
 --------------------
 1. 接电话 遇绑匪  
 2. 去银行 遇劫匪  
