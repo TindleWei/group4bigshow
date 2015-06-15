@@ -11,11 +11,11 @@
 --------------------
 #### [胶囊人]()
 
-![](/Image/avatar_bcasso.png =60x60)
-![](/Image/avatar_bdagelas.png =60x60)
-![](/Image/avatar_be.png =60x60)
-![](/Image/avatar_bke.png =60x60)
-![](/Image/avatar_bteman.png =60x60)
+![](./Image/avatar_bcasso.png)
+![](./Image/avatar_bdagelas.png)
+![](./Image/avatar_be.png)
+![](./Image/avatar_bke.png)
+![](./Image/avatar_bteman.png)
 
 人物介绍
 --------------------
