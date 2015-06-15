@@ -11,6 +11,12 @@
 --------------------
 #### [胶囊人]()
 
+![](/Image/avatar_bcasso.png =60x60)
+![](/Image/avatar_bdagelas.png =60x60)
+![](/Image/avatar_be.png =60x60)
+![](/Image/avatar_bke.png =60x60)
+![](/Image/avatar_bteman.png =60x60)
+
 人物介绍
 --------------------
 1. B哥
