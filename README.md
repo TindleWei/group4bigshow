@@ -11,7 +11,11 @@
 --------------------
 #### [胶囊人]()
 
+<<<<<<< Updated upstream
 ![](./Image/avatar_bcasso.png)
+=======
+![](./Image/avatar_bcasso.png )
+>>>>>>> Stashed changes
 ![](./Image/avatar_bdagelas.png)
 ![](./Image/avatar_be.png)
 ![](./Image/avatar_bke.png)
