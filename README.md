@@ -11,11 +11,17 @@
 --------------------
 #### [胶囊人]()
 
-![](./Image/avatar_bcasso.png )
+<!--![](./Image/avatar_bcasso.png )
 ![](./Image/avatar_bdagelas.png)
 ![](./Image/avatar_be.png)
 ![](./Image/avatar_bke.png)
 ![](./Image/avatar_bteman.png)
+-->
+<img src="./Image/avatar_bige.png"  alt="B哥" height="200" width="200"/>
+<img src="./Image/avatar_bike.png"  alt="比克船长" height="200" width="200"/>
+<img src="./Image/avatar_bitman.png"  alt="比特曼" height="200" width="200"/>
+<img src="./Image/avatar_bidagelas.png"  alt="毕达哥拉斯" height="200" width="200"/>
+<img src="./Image/avatar_bicasso.png"  alt="毕加索" height="200" width="200"/>
 
 人物介绍
 --------------------
