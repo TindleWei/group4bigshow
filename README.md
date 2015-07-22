@@ -20,11 +20,11 @@
 ![](./image/avatar_bke.png)
 ![](./image/avatar_bteman.png)
 -->
-<img src="./image/avatar_bige.png"  alt="B哥" height="200" width="200"/>
-<img src="./image/avatar_bike.png"  alt="比克船长" height="200" width="200"/>
-<img src="./image/avatar_bitman.png"  alt="比特曼" height="200" width="200"/>
-<img src="./image/avatar_bidagelas.png"  alt="毕达哥拉斯" height="200" width="200"/>
-<img src="./image/avatar_bicasso.png"  alt="毕加索" height="200" width="200"/>
+<img src="./image/avatar_bige.png"  alt="B哥" height="200" width="200">
+<img src="./image/avatar_bike.png"  alt="比克船长" height="200" width="200">
+<img src="./image/avatar_bitman.png"  alt="比特曼" height="200" width="200">
+<img src="./image/avatar_bidagelas.png"  alt="毕达哥拉斯" height="200" width="200">
+<img src="./image/avatar_bicasso.png"  alt="毕加索" height="200" width="200">
 
 
 #### 人物拆分图:
